@@ -19,3 +19,15 @@
 ## Stage 5. Class Activation Map
 1. 너의 속이 궁금해 - Class Activation Map 살펴보기
 2. 나를 찾아줘 - Class Activation Map 만들기
+
+## Stage 6. OCR(문자 인식)
+1. OCR 기술의 개요
+2. 직접 만들어보는 OCR
+
+## Stage 7. 
+1. 
+2. 
+
+## Stage 8. 
+1. 
+2. 
